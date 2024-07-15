@@ -5,18 +5,18 @@ This project involves exploring and analyzing a dataset from Swiggy, a restauran
 # Dataset Details
 The dataset contains information about restaurants, their locations, cuisines, menus, and more. It is structured in the swiggy.csv file with the following columns:
 
-restaurant_no: Unique ID for each restaurant.
-restaurant_name: Name of the restaurant.
-city: City where the restaurant is located.
-address: Restaurant's address.
-rating: Restaurant's rating.
-cost_per_person: Cost per person for dining.
-cuisine: Type of cuisine offered.
-restaurant_link: Link to the restaurant on Swiggy.
-menu_category: Category of menu items.
-item: Name of the menu item.
-price: Price of the menu item.
-veg_or_nonveg: Whether the item is vegetarian or non-vegetarian.
+-restaurant_no: Unique ID for each restaurant.
+-restaurant_name: Name of the restaurant.
+-city: City where the restaurant is located.
+-address: Restaurant's address.
+-rating: Restaurant's rating.
+-cost_per_person: Cost per person for dining.
+-cuisine: Type of cuisine offered.
+-restaurant_link: Link to the restaurant on Swiggy.
+-menu_category: Category of menu items.
+-item: Name of the menu item.
+-price: Price of the menu item.
+-veg_or_nonveg: Whether the item is vegetarian or non-vegetarian.
 
 # Project Focus
 1.Popular Cuisines in Different Cities
