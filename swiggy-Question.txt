@@ -1,0 +1,31 @@
+1. How many restaurants have a rating greater than 4.5?
+
+2. Which is the top 1 city with the highest number of restaurants?
+
+3. How many restaurants have the word "pizza" in their name?
+
+4. What is the most common cuisine among the restaurants in the dataset?
+
+5. What is the average rating of restaurants in each city?
+
+6. What is the highest price of an item under the 'Recommended' menu category for each restaurant?
+
+7. Find the top 5 most expensive restaurants that offer cuisine other than Indian cuisine.
+
+8. Find the restaurants that have an average cost higher than the total average cost of all restaurants together.
+
+9. Retrieve the details of restaurants that have the same name but are located in different cities.
+
+10. Which restaurant offers the most number of items in the 'Main Course' category?
+
+11. List the names of restaurants that are 100% vegetarian in alphabetical order of restaurant name.
+
+12. Which is the restaurant providing the lowest average price for all items?
+
+
+
+
+
+
+
+
