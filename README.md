@@ -1,8 +1,8 @@
 ﻿# Data_Analysis_of_Swiggy
-#Introduction
+# Introduction
 This initiative aims to delve into and scrutinize a dataset from Swiggy, a prominent platform for restaurant discovery and food delivery. The objective is to employ SQL queries to extract significant insights from the data, thereby benefiting food connoisseurs and data analysts alike.
 
-#Dataset Specifications
+# Dataset Specifications
 The dataset encompasses detailed information about numerous restaurants, including their locations, cuisines, menus, and more. It is organized within the swiggy.csv file. The dataset schema includes:
 
 restaurant_no: A distinctive identifier for each restaurant.
