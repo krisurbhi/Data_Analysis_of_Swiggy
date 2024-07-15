@@ -19,15 +19,17 @@ The dataset contains information about restaurants, their locations, cuisines, m
 - `veg_or_nonveg`: Indicates whether the item is vegetarian or non-vegetarian.
 
 # Project Focus
-1.Popular Cuisines in Different Cities
+1.Popular Cuisines in Different Cities-
+
 i.Find the most popular cuisines in various cities.
 ii.Identify trends and preferences in different cities.
 
-2.Top-Rated Restaurants
+2.Top-Rated Restaurants-
+
 i.Identify the highest-rated restaurants.
 ii.Compare ratings across different cities and cuisines.
 
-3.Menu Categories and Items
+3.Menu Categories and Items-
 
 i.Analyze the different menu categories offered by restaurants.
 ii.Identify popular items in each category.
